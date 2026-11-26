@@ -1,0 +1,1 @@
+![image-20261126112200171](project-brief.assets/image-20261126112200171.png)

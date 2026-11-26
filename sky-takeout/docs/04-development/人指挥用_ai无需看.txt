@@ -1,0 +1,27 @@
+现在执行 TASK-003：员工登录接口。
+
+请先阅读：
+- AGENTS.md
+- docs/01-requirements/PRD.md
+- docs/03-architecture/architecture.md
+- docs/03-architecture/database.md
+- docs/04-api/openapi.yaml
+- docs/05-development/tasks.md
+
+第一阶段：只进行任务分析，不修改代码。
+
+请输出：
+1. 本任务的目标。
+2. 对应的需求 ID。
+3. 需要实现的 API。
+4. 涉及的数据库表。
+5. 预计新增和修改的文件。
+6. 登录流程。
+7. 身份认证与密码安全方案。
+8. 异常情况。
+9. 测试用例。
+10. 可能存在的设计问题。
+
+如果文档之间存在冲突，先指出冲突。
+
+等待我确认后再编码。
